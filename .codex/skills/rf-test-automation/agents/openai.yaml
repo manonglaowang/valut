@@ -1,0 +1,4 @@
+interface:
+  display_name: "RF测试自动化"
+  short_description: "生成RF/GNSS/CSE/功耗测试计划、脚本和检查清单"
+  default_prompt: "帮我把这个RF测试需求转成自动化用例"

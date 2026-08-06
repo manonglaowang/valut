@@ -1,0 +1,443 @@
+{
+  "main": {
+    "id": "ce6fb85491592325",
+    "type": "split",
+    "children": [
+      {
+        "id": "5cac7b29374a68ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "095f73db686d89f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06.破局知识沉淀/我的破局之路/我的破局之路.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "我的破局之路"
+            }
+          },
+          {
+            "id": "921d6d8cd5256e0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06.破局知识沉淀/AI 破局精华帖/从外包测试到年薪50 W：码农老王的AI破局复盘.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "从外包测试到年薪50 W：码农老王的AI破局复盘"
+            }
+          },
+          {
+            "id": "04b3f7b4db3a4561",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06.破局知识沉淀/AI 破局精华帖/从外包测试到年薪50 W：码农老王的AI破局复盘.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "从外包测试到年薪50 W：码农老王的AI破局复盘"
+            }
+          },
+          {
+            "id": "596f53ee314b8c25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07.Plaud工作/自动化相关/pytest目录结构.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "pytest目录结构"
+            }
+          },
+          {
+            "id": "dc30a95289e48051",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02.文案结构/姜胡说/姜胡说-教知识·追求更好型（主力框架）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "姜胡说-教知识·追求更好型（主力框架）"
+            }
+          },
+          {
+            "id": "9a0f6db7d922a479",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03.选题决策/选题库.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "选题库"
+            }
+          },
+          {
+            "id": "ab6f6544a738964d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04.我的上下文/我的个人上下文/公众号结尾引流钩子模板.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "公众号结尾引流钩子模板"
+            }
+          },
+          {
+            "id": "89a5b203deb2ba79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04.我的上下文/我的个人上下文/公众号结尾引流钩子模板.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "公众号结尾引流钩子模板"
+            }
+          },
+          {
+            "id": "f67b7ae86da16f91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "笔记同步助手/2026-05-29/Claude Opus 4.8并没有炸裂，炸裂的是中文AI圈的浮躁.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Claude Opus 4.8并没有炸裂，炸裂的是中文AI圈的浮躁"
+            }
+          },
+          {
+            "id": "2126bb7d1badcf58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04.我的上下文/我的个人上下文/公众号结尾引流钩子模板.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "公众号结尾引流钩子模板"
+            }
+          },
+          {
+            "id": "d474347d9a71fe1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03.选题决策/文案草稿/2026-05-29-Claude-Opus-4.8浮躁二创稿.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-05-29-Claude-Opus-4.8浮躁二创稿"
+            }
+          },
+          {
+            "id": "23ab393dd284aed3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "笔记同步助手/2026-05-29/Codex 保姆级入门：从安装、权限到第一次让 AI 真正替你干活.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Codex 保姆级入门：从安装、权限到第一次让 AI 真正替你干活"
+            }
+          },
+          {
+            "id": "b6ff75bbf6bf4c16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04.我的上下文/我的个人专业思考/老王战略规划.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "老王战略规划"
+            }
+          },
+          {
+            "id": "9571f6e8e62f92ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03.选题决策/文案草稿/2026-05-26-Hermes+Obsidian+LLM Wiki本地知识库二创稿.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-05-26-Hermes+Obsidian+LLM Wiki本地知识库二创稿"
+            }
+          },
+          {
+            "id": "9e3597234d42d6f0",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "03.选题决策/文案草稿/assets/AI一人公司公众号封面.png"
+              },
+              "icon": "lucide-image",
+              "title": "AI一人公司公众号封面"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d1a02d089642c1ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f4978f436fc05ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eca683fb7831c401",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "eb923f8109cdd2b1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "de2f384bd527aa09",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "83b3ea52b2ba0627",
+    "type": "split",
+    "children": [
+      {
+        "id": "cabcbdafd430ec05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df50ff9393cf9252",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "315d22145b66a954",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "5a8e8a14b2f403b1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "3a8b22c7d4870a2e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "441e7a65a2a7a282",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "07.Plaud工作/01-硬件实测踩坑知识.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "01-硬件实测踩坑知识 的大纲"
+            }
+          },
+          {
+            "id": "c95ade4b5d118da0",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 785.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "web-clipper-screenshot:Web Clipper 📸": false,
+      "bijitongbu:tongbuzhushou": false,
+      "realclaudian:Open Claudian": false
+    }
+  },
+  "active": "c95ade4b5d118da0",
+  "lastOpenFiles": [
+    "07.Plaud工作/00-索引.md",
+    "07.Plaud工作/自动化相关/pytest目录结构.md",
+    "07.Plaud工作/未命名.md",
+    "07.Plaud工作/自动化相关",
+    "06.破局知识沉淀/AI 破局精华帖/从外包测试到年薪50 W：码农老王的AI破局复盘.md",
+    "2c5ce3d646af9ab95f59f29014fa9e33.jpg",
+    "61cb7d063023234fdbb13b2765529386.jpg",
+    "1bf708a2bfacd820ebf7cb573d0c9cfc.jpg",
+    "6c00e9f7a55d5325e4586fb207f61df5.jpg",
+    "620eae1a9ae3e30c9f128c0f5c3e1370.jpg",
+    "06.破局知识沉淀/我的破局之路/我的破局之路.md",
+    "06.破局知识沉淀/AI 破局精华帖/从外包测试到近50W：码农老王的AI破局复盘.md",
+    "06.破局知识沉淀/AI 破局精华帖/破局个人成长 --- 泽安复盘.md",
+    "06.破局知识沉淀/我的破局之路",
+    "07.Plaud工作/05-工作总结/工作日报/2026-07-28.md",
+    "07.Plaud工作/05-工作总结/工作日报/2026-07-27.md",
+    "07.Plaud工作/01-硬件实测踩坑知识.md",
+    "07.Plaud工作/05-工作总结/工作日报/99-日报模板.md",
+    "06.破局知识沉淀/Codex做产品志愿者工作/aipoju-daily-assistant/scripts/fetch_data.js.tmp.7244.252541e40dfb",
+    "07.Plaud工作/06-2026下半年OKR.md",
+    "07.Plaud工作/05-工作总结/工作日报/00-日报使用说明.md",
+    "06.破局知识沉淀/Codex做产品志愿者工作/aipoju-daily-assistant/output/page-2-20260727-094055.log",
+    "06.破局知识沉淀/Codex做产品志愿者工作/aipoju-daily-assistant/output/second-page-20260727-093748.log",
+    "06.破局知识沉淀/Codex做产品志愿者工作/aipoju-daily-assistant/scripts/fetch_data.js.tmp.7244.376238bb5489",
+    "06.破局知识沉淀/Codex做产品志愿者工作/aipoju-daily-assistant/output/full-run-20260727-093018.log",
+    "06.破局知识沉淀/Codex做产品志愿者工作/aipoju-daily-assistant/scripts/fetch_data.js.tmp.7244.69c2f04b6df1",
+    "06.破局知识沉淀/Codex做产品志愿者工作/aipoju-daily-assistant/output/run-all-students-20260727-092608.log",
+    "06.破局知识沉淀/Codex做产品志愿者工作/aipoju-daily-assistant/scripts/fetch_data.js.tmp.7244.f97390fea707",
+    "07.Plaud工作/02-Skill沉淀清单.md",
+    "06.破局知识沉淀/Codex做产品志愿者工作/aipoju-daily-assistant/SETUP-COMPLETE.md",
+    "06.破局知识沉淀/Codex做产品志愿者工作/aipoju-daily-assistant/QUICK-START.md",
+    "06.破局知识沉淀/Codex做产品志愿者工作/aipoju-daily-assistant/SCHEDULER-SETUP.md",
+    "06.破局知识沉淀/Codex做产品志愿者工作/aipoju-daily-assistant/node_modules/openai/src/_vendor/partial-json-parser/README.md",
+    "06.破局知识沉淀/Codex做产品志愿者工作/aipoju-daily-assistant/node_modules/openai/src/_vendor/zod-to-json-schema/README.md",
+    "06.破局知识沉淀/Codex做产品志愿者工作/aipoju-daily-assistant/node_modules/openai/src/internal/qs/README.md",
+    "06.破局知识沉淀/Codex做产品志愿者工作/aipoju-daily-assistant/node_modules/openai/src/internal/qs/LICENSE.md",
+    "06.破局知识沉淀/Codex做产品志愿者工作/aipoju-daily-assistant/node_modules/openai/src/_shims/README.md",
+    "06.破局知识沉淀/Codex做产品志愿者工作/aipoju-daily-assistant/node_modules/openai/_shims/README.md",
+    "06.破局知识沉淀/Codex做产品志愿者工作/aipoju-daily-assistant/node_modules/openai/CHANGELOG.md",
+    "06.破局知识沉淀/Codex做产品志愿者工作/aipoju-daily-assistant/references/prompts.md",
+    "06.破局知识沉淀/Codex做产品志愿者工作/aipoju-daily-assistant/references/selectors.md",
+    "06.破局知识沉淀/Codex做产品志愿者工作/aipoju-daily-assistant/node_modules/playwright-core/lib/tools/dashboard/appIcon.png",
+    "06.破局知识沉淀/Codex做产品志愿者工作/aipoju-daily-assistant/node_modules/playwright-core/lib/server/chromium/appIcon.png",
+    "06.破局知识沉淀/Codex做产品志愿者工作/aipoju-daily-assistant/node_modules/playwright-core/lib/vite/dashboard/assets/firefox-nightly-Cp5nfeDT.svg",
+    "06.破局知识沉淀/Codex做产品志愿者工作/aipoju-daily-assistant/node_modules/playwright-core/lib/vite/dashboard/assets/firefox-beta-k3eOH_eK.svg",
+    "06.破局知识沉淀/Codex做产品志愿者工作/aipoju-daily-assistant/node_modules/playwright-core/lib/vite/dashboard/assets/firefox-1bWoP6pv.svg"
+  ]
+}

@@ -1,0 +1,11 @@
+# Local secrets
+**/.env
+
+# Generated dependencies
+**/node_modules/
+
+# Claudian local runtime/session data
+.claudian/
+
+# Independently managed nested Git repository
+06.破局知识沉淀/Codex做产品志愿者工作/aipoju-daily-assistant/
